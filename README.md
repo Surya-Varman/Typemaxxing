@@ -89,3 +89,12 @@ src/words.rs    random words from assets/english.txt
 ```
 
 Run the tests with `cargo test`.
+
+
+## Screenshots
+<img width="1602" height="880" alt="image" src="https://github.com/user-attachments/assets/bf1f16c2-3129-4048-ae6c-4b2b595c98af" />
+<img width="1499" height="760" alt="Screenshot 2026-11-18 at 3 12 44 PM" src="https://github.com/user-attachments/assets/ea80927e-571c-44b8-a6a9-bcabf0bda4eb" />
+<img width="972" height="640" alt="Screenshot 2026-11-18 at 3 13 26 PM" src="https://github.com/user-attachments/assets/5f4b6cdf-c49e-4365-badc-8a9c46151ee6" />
+
+
+
